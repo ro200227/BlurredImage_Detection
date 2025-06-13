@@ -26,7 +26,6 @@ Each image is resized to `256x256` before feature extraction.
 - **Laplacian Variance** – Detects overall sharpness.
 - **FFT Mean of Central Frequencies** – Captures frequency domain characteristics.
 - **Edge Density (Canny)** – Measures presence of edges.
-- **Sobel Variance** – Captures directional gradients.
 
 ---
 
